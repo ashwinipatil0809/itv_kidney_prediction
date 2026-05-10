@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/ashwinipatil0809/itv_kidney_prediction
+Author: ashwinipatil0809
+Author-email: patilashwini24242@gmail.com
+Project-URL: Bug Tracker, https://github.com/ashwinipatil0809/itv_kidney_prediction/issues
+Description-Content-Type: text/markdown
+
+# itv_kidney_prediction
