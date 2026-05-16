@@ -1,4 +1,4 @@
-# ITV Kidney Disease Prediction using CNN & VGG16
+# Kidney Disease Prediction using CNN & VGG16
 
 A Deep Learning based Kidney Disease Prediction System developed using TensorFlow/Keras and VGG16 architecture.  
 This project uses a Convolutional Neural Network (CNN) with Transfer Learning to classify kidney disease from medical images.
